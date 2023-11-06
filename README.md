@@ -15,6 +15,7 @@ I enjoy learning and I'm always looking for new challenges.
 * ✉️  You can contact me at [kevacosta02@gmail.com](mailto:kevacosta02@gmail.com)
 * 🧠  Android Developer
 * ⚡  Big sports fan
+* 📄  Wanna Know about my experiences? Got u! <a href="https://github.com/KevvCC/KevvCC/blob/main/Kevin_CV-EN.pdf" target="blank">Resume</a>
 *     I am a Team Player person
 
 ### Skills
