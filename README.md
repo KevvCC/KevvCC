@@ -1,4 +1,4 @@
- Hi ! I'm Kevin, Android Developer
+ Hi ! I'm Kevin 👋 , Android Developer 📱
 =========================================================================================================================================
 Firstly to understand what I'm about to tell you, you need to do something, you need to believe the impossible, can you do that? Good
 ----------------
