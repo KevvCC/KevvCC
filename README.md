@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=13&center=true&vCenter=true&width=1050&height=100&lines=Firstly+to+understand+what+I'm+about+to+tell+you,+you+need+to+do+something,+you+need+to+believe+the+impossible,+can+you+do+that?+Good"></a>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 My name is Kevin Acosta and I am an experienced Android developer,
 Determined and productive developer with a passion for creative solutions. Dedicated to learning 
