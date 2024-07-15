@@ -35,11 +35,9 @@ I enjoy learning and I'm always looking for new challenges.
 
 ### Projects
 
+[Imc app](https://github.com/KevvCC/ImcApp)
 
-#### [Nombre](link)
-
-<img src = "imagen" width = "175" height = "300">
-
+<img src ="https://github.com/user-attachments/assets/55959e9d-d621-4826-b6a2-15a385245978" width = "175" height="300" align="left">
 
 ### Socials
 
