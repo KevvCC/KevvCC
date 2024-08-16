@@ -43,6 +43,10 @@ I enjoy learning and I'm always looking for new challenges.
 
 <img src = https://github.com/user-attachments/assets/cf26d6da-e3ab-4d14-9041-ac116694d8f6 width = "200" height="400" align="left">
 
+[Rick And Morty App Api](https://github.com/KevvCC/RickAndMortyAppApi)
+
+<img src = https://github.com/user-attachments/assets/e204c614-cf04-4cbf-a2fa-cb8a30c5bd44 width = "200" height="400" align="left">
+
 ### Socials
 
 <p align="left"> 
